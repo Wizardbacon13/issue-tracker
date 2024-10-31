@@ -5,7 +5,7 @@ import { usePathname } from "next/navigation";
 import React from "react";
 import { AiFillBug } from "react-icons/ai";
 import classnames from "classnames";
-console.log("remove pls")
+console.log("remove plss")
 
 const NavBar = () => {
   const currentPath = usePathname();
