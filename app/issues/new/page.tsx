@@ -59,6 +59,7 @@ const NewIssuePage = () => {
     </form>
     </div>
   )
+  
 }
 
 export default NewIssuePage
